@@ -39,5 +39,5 @@
 <h2 align="center">Contacts</h2>
 <p>Contact me via:</p>
 <ul>
-    <li><a href="https://t.me/k1rsn7">Telegram</a></li>
+    <li><a href="https://x.com/thatdudeTM">X(Formerly Twitter0</a></li>
 </ul>
