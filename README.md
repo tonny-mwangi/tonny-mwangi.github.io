@@ -1,6 +1,6 @@
 <img src="./Preview.png">
 <div align="center">
-    <a href="https://github.com/tonny-mwangi/portfolio/stargazers">
+    <a href="https://github.com/tonny-mwangi/My-portfolio/stargazers">
         <img src="https://img.shields.io/github/stars/tonny-mwangi/My-portfolio?color=8FBAD0&labelColor=3D4245&style=for-the-badge" alt="Stars">
     </a>
 </div>
