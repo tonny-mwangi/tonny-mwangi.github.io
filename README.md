@@ -4,8 +4,8 @@
         <img src="https://img.shields.io/github/stars/K1rsN7/portfolio?color=8FBAD0&labelColor=3D4245&style=for-the-badge" alt="Stars">
     </a>
 </div>
-<h1 align="center">My Portfolio</h1>
-<p>Welcome to my portfolio! This website is a collection of my projects, achievements, and skills. Here you will find information about my work, certificates, and the technologies I work with.</p>
+<h1 align="center">My Portfolio Website</h1>
+<p>Welcome to my portfolio! This website is a collection of my projects, achievements, and skills. Here you will find information about my work, certificates, and the technologies I use to programme.</p>
 
 <h2 align="center">Project Structure</h2>
 <ul>
@@ -39,5 +39,5 @@
 <h2 align="center">Contacts</h2>
 <p>Contact me via:</p>
 <ul>
-    <li><a href="https://t.me/k1rsn7">Telegram</a></li>
+    <li><a href="https://x.com/thatdudeTM">X(Formerly Twitter)</a></li>
 </ul>
